@@ -74,10 +74,10 @@ Additional Feature:
 ## 📁 Repository Structure
 
 ```
-Healthcare-Business-Logic/
+Healthcare-Problem-Statements/
 │
-├── Patient_Risk_Assessment.py
-├── Hospital_Insurance_Eligibility.py
+├── Patient_Risk_Assessment_System.py
+├── Health_Insurance_Eligibility_System.py
 └── README.md
 ```
 
